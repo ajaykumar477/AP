@@ -231,8 +231,8 @@ video {
   padding: 0; }
 
 /*01:6 Section*/
-.pkbt{padding: 5px 12px !important; background: #fe9900 !important;text-transform: uppercase;}
-.pkbt:before{background: #eb5717 !important;}
+.pkbt{padding: 5px 12px !important; background: #2fcde7 !important;text-transform: uppercase;}
+.pkbt:before{background: #0038fe !important;}
 .section_padding {
   padding: 70px 0; }
   @media (min-width: 481px) and (max-width: 767px), only screen and (max-width: 480px), only screen and (max-width: 320px), only screen and (max-width: 384px) {
@@ -660,9 +660,9 @@ video {
             -o-transform: perspective(0em) rotateX(0deg);
             transform: perspective(0em) rotateX(0deg); }
   .header_area .header_top {
-    background: rgba(24, 33, 45, 0.1);
+    background: rgba(87, 118, 159, 0.1);
     padding: 39px 0;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05); }
+    border-bottom: 1px solid rgba(214, 205, 205, 0.05); }
     @media (max-width: 481px) {
       .header_area .header_top {
         padding: 15px 0; } }
@@ -700,7 +700,7 @@ video {
         display: inline-block;
         line-height: 29px;
         color: #ffffff;
-        background: #52991f;
+        background: #a46cdd;
         font-size: 14px;
         margin-right: 10px;
         -webkit-border-radius: 50%;
@@ -755,7 +755,7 @@ video {
 @media (min-width: 768px) and (max-width: 991px), (min-width: 481px) and (max-width: 767px), only screen and (max-width: 480px) {
   .fixed-nav .header_area {
     position: fixed;
-    background: #18212E;
+    background: #303a49;
     top: 0;
     width: 100%; } }
 .fixed-nav .header_area .main_menu_area {
@@ -885,7 +885,7 @@ video {
         height: 41px;
         line-height: 41px;
         text-align: center;
-        background: #52991f;
+        background: #b170ea;
         color: #ffffff;
         margin-right: 10px;
         -webkit-border-radius: 50%;
@@ -958,7 +958,7 @@ video {
   -moz-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05); }
   .header_style_3 .header_top {
-    background: #52991f;
+    background: #933797;
     padding: 8px 0; }
     .header_style_3 .header_top .contact_infos {
       display: flex;
@@ -979,14 +979,14 @@ video {
       .header_style_3 .header_top .contact_infos p {
         font-size: 14px;
         font-weight: 500;
-        color: #ffffff;
+        color: #92fbc9;
         display: flex;
         align-items: center;
         margin-right: 23px; }
         .header_style_3 .header_top .contact_infos p:last-child {
           margin-right: 0; }
         .header_style_3 .header_top .contact_infos p i {
-          color: #fe9900;
+          color: #f3fb90;
           font-size: 22px;
           margin-right: 6px; }
     .header_style_3 .header_top .social_title {
